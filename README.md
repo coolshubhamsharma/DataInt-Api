@@ -47,6 +47,16 @@
 
 -   Tech : Express , MongoDB , Javascript , Nodemailer , Faker , CsvWriter ,Pdfkit
 
+## Summary
+    This complete code integrates:
+
+   * API Development: Routes to export reports in CSV and PDF formats using MongoDB.
+
+  * Data Storage and Processing: Using Mongoose for data models and generateMetrics for the ETL process.
+
+  * Alerts: Triggering email alerts based on metrics.
+
+  * Dummy Data: The data is pulled dynamically through dummy integrations.
 
 ## Install Dependencies
 
